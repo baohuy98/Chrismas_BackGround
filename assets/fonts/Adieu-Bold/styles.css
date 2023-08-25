@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'Adieu-Bold';
+  src: url('Adieu-Bold.eot?#iefix') format('embedded-opentype'),  url('Adieu-Bold.otf')  format('opentype'),
+	     url('Adieu-Bold.woff') format('woff'), url('Adieu-Bold.ttf')  format('truetype'), url('Adieu-Bold.svg#Adieu-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
